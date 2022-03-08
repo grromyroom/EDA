@@ -26,5 +26,11 @@
 | EDA   | 링크 |
 | ------------- | ------------- |
 | **각 데이터 이미지 shape 분석 (김태훈)**  | [LINK](https://github.com/grromyroom/EDA/blob/main/EDA/%ED%83%9C%ED%9B%88_EDA.ipynb)  |
-| **라벨 데이터 단일화하기, 이미지 마다 구름 몇 % 점유율, Shape 분포도  (안가영)**  | [LINK](https://www.google.com)   |
-| **각 class별 이미지 개수 + 아예 구름이 없는 이미지 개수 (김혜지)** | [LINK](https://www.google.com) |
+| **라벨 데이터 단일화하기, 이미지 마다 구름 몇 % 점유율, Shape 분포도  (안가영)**  | [LINK](https://github.com/grromyroom/EDA/blob/main/EDA/%EA%B0%80%EC%98%81_EDA.ipynb)   |
+| **각 class별 이미지 개수 + 아예 구름이 없는 이미지 개수 (김혜지)** | [LINK](https://github.com/grromyroom/EDA/blob/main/EDA/%ED%98%9C%EC%A7%80_EDA.ipynb) |
+
+
+| **발표**         | **링크**           |
+| ------------- |:-------------:|
+| **이 프로젝트에 사용된 EDA 관련 프레젠테이션**      | [LINK](https://github.com/grromyroom/EDA/blob/main/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD/2.23_sia_%E1%84%90%E1%85%B5%E1%86%B7%E1%84%86%E1%85%B5%E1%84%90%E1%85%B5%E1%86%BC.pdf) | 
+
