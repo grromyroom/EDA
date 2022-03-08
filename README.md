@@ -25,6 +25,6 @@
 
 | EDA   | 링크 |
 | ------------- | ------------- |
-| **각 데이터 이미지 shape 분석 (김태훈)**  | [LINK](https://www.google.com)  |
+| **각 데이터 이미지 shape 분석 (김태훈)**  | [LINK](https://github.com/grromyroom/EDA/blob/main/EDA/%ED%83%9C%ED%9B%88_EDA.ipynb)  |
 | **라벨 데이터 단일화하기, 이미지 마다 구름 몇 % 점유율, Shape 분포도  (안가영)**  | [LINK](https://www.google.com)   |
 | **각 class별 이미지 개수 + 아예 구름이 없는 이미지 개수 (김혜지)** | [LINK](https://www.google.com) |
